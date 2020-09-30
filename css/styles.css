@@ -105,3 +105,9 @@ top: 50px;
   color: #EAF6F6;
   font-size: 0.75rem;
 }
+hr{
+    border-style: dotted none none none;
+    border-color: gray;
+    border-width: 10px;
+    width: 5%;
+}
